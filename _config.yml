@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: QA Blog
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Another blog from some ordinary QA Engineer
+#logo: site-logo.png
 search: true
 url: http://ayafi.github.io
 
@@ -36,10 +36,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  name: Ayafi
+  #avatar: bio-photo.jpg
+  email: andrei.yatsenko.khmelevskiy@gmail.com
+  disqus-shortname: ayafi
   twitter: #username
   facebook: #username
   github: #username
