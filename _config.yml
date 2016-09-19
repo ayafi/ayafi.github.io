@@ -5,8 +5,7 @@ locale: en_US
 description: My view on Test Automation.
 #logo: site-logo.png
 search: true
-url: http://ayafi.github.io
-#url: http://localhost:4000
+url: http://ayafi.github.io/
 
 # Jekyll configuration
 
@@ -40,7 +39,7 @@ owner:
   name: Ayafi
   avatar: bio-photo.jpg
   email: ayafi.github@gmail.com
-  disqus-shortname: ayafi-github-com-io
+  disqus-shortname: #
   twitter: #username
   facebook: #username
   github: #username
