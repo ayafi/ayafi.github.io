@@ -3,11 +3,20 @@
 - title: Home
   url: /
 
+- title: Automation
+  url: /automation/
+
 - title: About
   url: /about/
 
+#- title: Articles
+#  url: /articles/
+
 - title: Blog
   url: /blog/
+
+#- title: Theme Setup
+#  url: /theme-setup/
 
 - title: Search
   url: /search/
